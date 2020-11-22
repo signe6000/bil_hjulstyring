@@ -1,0 +1,22 @@
+{
+    "name": "bil_hjulstyring",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.3",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
